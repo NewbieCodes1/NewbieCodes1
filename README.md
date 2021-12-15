@@ -2,6 +2,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NewbieCodes?cardType=level-alternate&theme=midnight-purple)](https://git.io/awesome-stats-card)
 
+![](https://komarev.com/ghpvc/?username=NewbieCodes1)
+
 
 <!--
 **NewbieCodes1/NewbieCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
