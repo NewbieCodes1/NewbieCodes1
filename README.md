@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Newbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewbieCodes1)](https://github.com/NewbieCodes1/github-readme-stats)
+[![Newbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewbieCodes1&show_icons=true&theme=midnight-purple)](https://github.com/NewbieCodes1/github-readme-stats)
 
 
 <!--
