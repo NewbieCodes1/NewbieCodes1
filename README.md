@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NewbieCodes?cardType=level&theme=midnight-purple)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NewbieCodes?cardType=level-alternate&theme=midnight-purple)](https://git.io/awesome-stats-card)
 
 
 <!--
