@@ -2,7 +2,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NewbieCodes?cardType=octocat&theme=midnight-purple)](https://git.io/awesome-stats-card)
 
-![](https://komarev.com/ghpvc/?username=NewbieCodes1&color=333333)
+![](https://komarev.com/ghpvc/?username=NewbieCodes1&color=303030)
 
 
 <!--
