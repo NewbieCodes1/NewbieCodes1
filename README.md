@@ -2,6 +2,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NewbieCodes?cardType=octocat&theme=midnight-purple)](https://git.io/awesome-stats-card)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieCodes1&theme=tokyonight)
+
 ![](https://komarev.com/ghpvc/?username=NewbieCodes1&color=303030)
 
 
